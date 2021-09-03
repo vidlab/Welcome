@@ -1,20 +1,37 @@
-Note: This site is under development
+## Welcome to GitHub Pages
 
-## Welcome to Vision Intelligence and Data Lab
+You can use the [editor on GitHub](https://github.com/vidlab/Welcome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Vision Intelligence, and Data Laboratory (VIDLab) at Lakehead University is steered by Dr. T. Akilan. The lab focuses on the research and development of efficient intelligent solutions for practical problems using computer vision, image processing, deep learning, machine learning, and large data analytics.  
+### Markdown
 
-The following are some of the ongoing research themes:
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-1. Deep learning models for diagnosis of infectious respiratory diseases, like COVID-19, and pneumonia.
-2. Hardware implementation of a face-mask detection and indoor occupancy estimation system. 
-3. Machine learning-based IoT anomaly detection.
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-## Dr. T. Akilan
+- Bulleted
+- List
 
-Dr. Akilan is an assistant professor with the Department of Software Engineering at Lakehead University (LU). Prior to joining LU, he was a postdoctoral fellow at the University of Windsor (UWin) with Professor Jonathan Wu (Fellow of Canadian Academy of Engineering) under whose guidance he received his Ph.D. earlier. 
+1. Numbered
+2. List
 
-His research areas lie in computer vision, image processing, machine learning, deep learning, 2D/3D object detection, classification, and segmentation, large data analysis, and natural language processing.
+**Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vidlab/Welcome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
