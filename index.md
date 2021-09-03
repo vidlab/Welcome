@@ -20,4 +20,3 @@ Dr. Akilan is an assistant professor with the Department of Software Engineering
 His research areas lie in computer vision, image processing, machine learning, deep learning, 2D/3D object detection, classification, and segmentation, large data analysis, and natural language processing.
 
 
-
