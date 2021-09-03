@@ -17,3 +17,4 @@ The following are some of the ongoing research themes:
 Dr. Akilan is an assistant professor with the Department of Software Engineering at Lakehead University (LU). Prior to joining LU, he was a postdoctoral fellow at the University of Windsor (UWin) with Professor Jonathan Wu (Fellow of Canadian Academy of Engineering) under whose guidance he received his Ph.D. earlier. 
 
 His research areas lie in computer vision, image processing, machine learning, deep learning, 2D/3D object detection, classification, and segmentation, large data analysis, and natural language processing.
+
