@@ -12,7 +12,6 @@ The following are some of the ongoing research themes:
 3. Machine learning-based IoT anomaly detection.
 
 
-
 ## Dr. T. Akilan
 
 Dr. Akilan is an assistant professor with the Department of Software Engineering at Lakehead University (LU). Prior to joining LU, he was a postdoctoral fellow at the University of Windsor (UWin) with Professor Jonathan Wu (Fellow of Canadian Academy of Engineering) under whose guidance he received his Ph.D. earlier. 
